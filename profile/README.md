@@ -4,10 +4,10 @@
 Repository ini dibuat untuk kebutuhan  mata kuliah RPL: Desain & Implementasi.
 
 ## Anggota Kelompok:
-- Muhamad Elang Ramadhan - 1301190458
-- Muhamad Faishal Irawan - 1301194262
-- Muhammad Iskandar Devanto - 1301190414
-- Ahmad Zakky Najmy - 1301194096
+- [Muhamad Elang Ramadhan - 1301190458](https://github.com/mugeki)
+- [Muhamad Faishal Irawan - 1301194262](https://github.com/faishalirwn)
+- [Muhammad Iskandar Devanto - 1301190414](https://github.com/iskandardevan)
+- [Ahmad Zakky Najmy - 1301194096](https://github.com/Zaksky124)
 
 ## Dokumen
 
